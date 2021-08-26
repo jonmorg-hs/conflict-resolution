@@ -1,3 +1,3 @@
 # conflict-resolution
 
-## changeing also
+## updated conflict-resolution
